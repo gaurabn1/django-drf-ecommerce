@@ -43,10 +43,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #Custom Apps
-
+    'product',
 
     #External Apps
-    'rest_vframework',
+    'rest_framework',
 
 ]
 
