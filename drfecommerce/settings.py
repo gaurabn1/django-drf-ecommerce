@@ -46,7 +46,7 @@ INSTALLED_APPS = [
 
 
     #External Apps
-    'rest_framework',
+    'rest_vframework',
 
 ]
 
